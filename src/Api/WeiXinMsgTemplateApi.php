@@ -62,5 +62,8 @@ class WeiXinMsgTemplateApi extends WeiXinApi
         }
     }
 
+    private function check(){
+        return true;
+    }
 
 }

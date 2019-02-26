@@ -303,6 +303,9 @@ class WeiXinPayApi extends WeiXinApi
         }
     }
 
+    private function check(){
+        return true;
+    }
 
     
 

@@ -122,5 +122,8 @@ abstract class WeiXinTemplate
         return $result;
     }
 
+    private function check(){
+        return true;
+    }
 
 }
