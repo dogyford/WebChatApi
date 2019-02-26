@@ -676,4 +676,9 @@ class WeiXinApi
     }
 
 
+    private function check(){
+        return true;
+    }
+
+
 }
